@@ -4,4 +4,5 @@ matplotlib==3.7.1
 seaborn==0.12.2
 wordcloud==1.9.3
 supabase==2.0.0
-pillow==9.5.0
+pillow
+zlib
