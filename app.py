@@ -9,10 +9,10 @@ import datetime
 from supabase import create_client, Client
 
 # 🚀 Configuración del tema y ancho de página
-st.set_page_config(page_title="KingCrab - Bolsa de Trabajo", page_icon="📊", layout="wide")
+st.set_page_config(page_title="KingCrab - Bolsa de Trabajo", page_icon="🦀", layout="wide")
 
 # 📂 Sidebar con información y logo
-st.sidebar.title("KingCrab 📊")
+st.sidebar.title("KingCrab 🦀")
 st.sidebar.markdown("### Análisis de Mercado Laboral en Tiempo Real")
 st.sidebar.info(
     "Esta aplicación extrae y analiza datos de diferentes portales de empleo "
