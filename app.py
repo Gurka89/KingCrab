@@ -19,7 +19,7 @@ st.sidebar.info(
     "para ofrecerte tendencias laborales actualizadas."
 )
 st.sidebar.markdown("---")
-st.sidebar.write("👨‍💻 Desarrollado por Luis Mateo")
+st.sidebar.write("👨‍💻 Desarrollado por concho")
 
 # 📡 FUNCION PARA CONECTAR A LA BASE DE DATOS
 def get_database_connection():
