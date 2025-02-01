@@ -18,7 +18,7 @@ st.sidebar.info(
     "para ofrecerte tendencias laborales actualizadas."
 )
 st.sidebar.markdown("---")
-st.sidebar.write("👨‍💻 Desarrollado por [Tu Nombre]")
+st.sidebar.write("👨‍💻 Desarrollado por Luis Mateo")
 
 # 📡 FUNCIÓN PARA CONECTAR A SUPABASE
 @st.cache_resource
