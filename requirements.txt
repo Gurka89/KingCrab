@@ -1,7 +1,7 @@
-streamlit
-pandas
-matplotlib
-seaborn
-wordcloud
-supabase-py
+streamlit==1.26.0
+pandas==2.2.0
+matplotlib==3.7.1
+seaborn==0.12.2
+wordcloud==1.9.3
+supabase==2.0.0
 pillow==9.5.0
