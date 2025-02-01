@@ -4,3 +4,4 @@ matplotlib
 seaborn
 wordcloud
 supabase-py
+pillow==9.5.0
