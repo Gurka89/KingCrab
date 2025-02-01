@@ -3,5 +3,4 @@ pandas
 matplotlib
 seaborn
 wordcloud
-supabase
-sqlite3
+supabase-py
